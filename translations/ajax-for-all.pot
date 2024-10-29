@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Nicolas Kuttler
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax For All 0.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ajax-for-all\n"
+"POT-Creation-Date: 2010-07-26 00:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  ajax-for-all.pot (Ajax For All 0.4)  #-#-#-#-#
+#. Plugin Name of an extension
+#: inc/admin.php:124 inc/admin.php:303
+msgid "Ajax For All"
+msgstr ""
+
+#: inc/admin.php:314
+msgid "Admin only mode"
+msgstr ""
+
+#: inc/admin.php:320
+msgid ""
+"The admin only mode is the default so that you can test if the plugin works "
+"with your site. Disable it so that your visitors can use the Ajax feature. "
+"You might want to disable the link to the plugin's page in your site's "
+"footer before doing this."
+msgstr ""
+
+#: inc/admin.php:326
+msgid "ID to replace"
+msgstr ""
+
+#: inc/admin.php:330
+msgid "The default 'content' should work with most themes."
+msgstr ""
+
+#: inc/admin.php:336
+msgid "Which transition?"
+msgstr ""
+
+#: inc/admin.php:340
+msgid "No transition"
+msgstr ""
+
+#: inc/admin.php:341
+msgid "Slide up/down"
+msgstr ""
+
+#: inc/admin.php:342
+msgid "Fade out/in"
+msgstr ""
+
+#: inc/admin.php:352
+msgid "Pick one of the available transitions"
+msgstr ""
+
+#: inc/admin.php:358
+msgid "Transition time?"
+msgstr ""
+
+#: inc/admin.php:381
+msgid "Scroll time?"
+msgstr ""
+
+#: inc/admin.php:400
+msgid "Time to scroll up/towards anchors"
+msgstr ""
+
+#: inc/admin.php:406
+msgid "Scroll to the top when a link is clicked?"
+msgstr ""
+
+#: inc/admin.php:413
+msgid ""
+"If you disable this setting make sure that long pages work properly. You "
+"probably want to re-style the spinner."
+msgstr ""
+
+#: inc/admin.php:419
+msgid "Use plugin CSS"
+msgstr ""
+
+#: inc/admin.php:426
+msgid ""
+"Disable this if your layout breaks. But you will need to style the spinner "
+"yourself then."
+msgstr ""
+
+#: inc/admin.php:432
+msgid "Use width/height-fixed placeholder?"
+msgstr ""
+
+#: inc/admin.php:439
+msgid ""
+"This prevents sidebars/footers etc from jumping around too much because of "
+"the ajax updates."
+msgstr ""
+
+#: inc/admin.php:446
+msgid "Limit to domain"
+msgstr ""
+
+#: inc/admin.php:456
+msgid "Link to the plugin page in your footer?"
+msgstr ""
+
+#: inc/admin.php:469
+msgid "Save Changes"
+msgstr ""
+
+#: inc/nkuttler.php:25
+msgid "Do you like this plugin?"
+msgstr ""
+
+#: inc/nkuttler.php:33
+#, php-format
+msgid "<a href=\"%s\">Rate</a> it"
+msgstr ""
+
+#: inc/nkuttler.php:36
+#, php-format
+msgid "<a href=\"%s\">Visit</a> it's homepage"
+msgstr ""
+
+#: inc/nkuttler.php:39
+#, php-format
+msgid "<a href=\"%s\">Subscribe</a> the feed"
+msgstr ""
+
+#: inc/nkuttler.php:42
+#, php-format
+msgid "<a href=\"%s\">Donate</a>!"
+msgstr ""
+
+#: inc/nkuttler.php:45
+msgid "About the author"
+msgstr ""
+
+#: inc/nkuttler.php:48
+#, php-format
+msgid "My <a href=\"%s\">blog</a>"
+msgstr ""
+
+#: inc/nkuttler.php:51
+#, php-format
+msgid "Subscribe via <a href=\"%s\">RSS</a> or <a href=\"%s\">email</a>"
+msgstr ""
+
+#: inc/nkuttler.php:55
+msgid "My other plugins"
+msgstr ""
+
+#: inc/nkuttler.php:56
+msgid "<a href=\"http://www.nkuttler.de\">Translated by Nicolas</a>"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://www.nkuttler.de/2010/07/22/automatic-ajax-for-wordpress-plugin/"
+msgstr ""
+
+#. Description of an extension
+msgid "This plugin will enable a fancy ajax functionality on most themes."
+msgstr ""
+
+#. Author of an extension
+msgid "Nicolas Kuttler"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.nkuttler.de/"
+msgstr ""
